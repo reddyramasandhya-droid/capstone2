@@ -89,7 +89,7 @@ capstone2/
    python manage.py runserver
    ```
 
-6. Open **http://127.0.0.1:8000/** in your browser.
+6. Open **http://127.0.0.1:8002/** in your browser.
 
 ### Optional: create an admin user
 
@@ -97,7 +97,7 @@ capstone2/
 python manage.py createsuperuser
 ```
 
-Then visit **http://127.0.0.1:8000/admin/**.
+Then visit **http://127.0.0.1:8002/admin/**.
 
 ## Deployment Notes (PythonAnywhere)
 
