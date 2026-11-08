@@ -29,10 +29,10 @@ Each student record stores:
 ## Screenshots
 
 ### Home Page – Insert Form and Student List
-<img width="1046" height="551" alt="Image" src="https://github.com/user-attachments/assets/f039b2ae-a539-4d9a-a9e7-72e83aa3c8c6" />
+<img width="1917" height="545" alt="Image" src="https://github.com/user-attachments/assets/b72a70ed-e23c-4706-ae0b-57f4d203c52f" />
 
 ### Update Student Details
-<img width="1917" height="545" alt="Image" src="https://github.com/user-attachments/assets/b72a70ed-e23c-4706-ae0b-57f4d203c52f" />
+<img width="1046" height="551" alt="Image" src="https://github.com/user-attachments/assets/f039b2ae-a539-4d9a-a9e7-72e83aa3c8c6" />
 ## Tech Stack
 
 - **Backend:** Python, Django
