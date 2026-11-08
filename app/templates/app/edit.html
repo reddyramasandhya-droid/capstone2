@@ -15,7 +15,7 @@
     <div class="row">
         <div class="col-md-4">
             <h2 class="text-white text-center p-3 bg-dark">Update Student Details</h2>
-            <form action="\update/{{d.id}}" method="post">
+            <form action="\update/{{d.id}}" method="POST">
                 {% csrf_token %}
                 <div>
                     <input type="text" class="form-control" placeholder="Enter The Student Name" name="name" value={{d.name}}>
