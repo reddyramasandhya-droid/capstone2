@@ -5,6 +5,7 @@ A simple web application built with **Django** that performs **CRUD** (Create, R
 > 🎓 Built as part of the **Full Stack Python Internship** at [CodingBrains](https://codingbrains.in).
 
 🔗 **Live Demo:** [ramasandhyasomula.pythonanywhere.com](https://ramasandhyasomula.pythonanywhere.com/)
+
 📦 **Repository:** [github.com/reddyramasandhya-droid/capstone2](https://github.com/reddyramasandhya-droid/capstone2)
 
 ---
